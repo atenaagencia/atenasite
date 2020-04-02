@@ -17,3 +17,8 @@
     -o-transition: .3s;
     border-radius: 8px;
   }
+  @media screen and (max-width:350px){
+      .collapse .navbar-collapse{
+          background-color: purple !important;
+      }
+  }
