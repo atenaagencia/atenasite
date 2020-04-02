@@ -12623,7 +12623,7 @@ a {
 }
 
 .inner-banner {
-  background: #1f242c;
+   style="background-color: purple !important;"
 }
 
 .w3l-header.inner-w3l-header {
