@@ -88,6 +88,22 @@
         -moz-transition: .3s;
         -ms-transition: .3s;
         -o-transition: .3s;
+        color: white !important;
     }
+    .w3l-open-block-services .text-primary{
+        color: rgb(63, 2, 63) !important;
+    }
+    .w3l-open-block-services .card:hover .open-description .text-primary{
+        color: #fff !important;
+    }
+    .w3l-open-block-services .card:hover h4.mission {
+  color: #fff;
+}
+
+.w3l-open-block-services .card:hover .open-description p {
+  color: #fff;
+}
+
+
 </style>
 @endsection
