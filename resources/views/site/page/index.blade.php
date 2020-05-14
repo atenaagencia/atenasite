@@ -1,32 +1,80 @@
 @extends('site.layouts.template')
+<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap" rel="stylesheet">
+<style>
+p#teste {
+    color: #777;
+    font-size: 22px;
+    line-height: 35px;
+    font-family: 'Nunito', sans-serif;
+}
+
+.text-purple{
+  color: purple !important;
+}
+.raleway-font{
+  font-family: 'Raleway', sans-serif;
+}
+</style>
 @section('conteudo')
- <!-- w3l-content-photo-5 -->
+
+<section class="p-5 text-center bg-light text-dark">
+  <div class="row justify-content-center">
+    <div class="col-lg-8 p-5 text-justify">
+        <div class="col-lg-8 offset-lg-2">
+          <h1 class="mb-5 raleway-font display-4 text-purple">Uma agência diferente.</h1>
+          <p class="mt-md-4 mt-3 mb-0 raleway-font text-dark" id="teste">Somos mais que uma agência, somos uma equipe de soluções e
+          resultados completos, onde diferentes talentos se unem
+          conectando ideias, inspirações e conhecimentos para tocar as
+          mentes e os corações de consumidores em todas as suas
+          conexões, plataformas e estações. </p><br>
+          <p class="mt-md-4 mt-3 mb-0 raleway-font text-dark" id="teste">A <b class="text-purple">Atena Agência</b> traz para você os melhores profissionais que
+          usarão seus poderes de cavalheiros cibernéticos como:
+          desenvolvimento web, palestras e treinamentos, marketing e
+          mídias digitais, assessoria de imprensa, design gráfico,
+          campanhas publicitárias, materiais gráfico e planejamento
+          estratégico.</p>
+          <a href="#portfolio" class="primary-btn-style btn-primary btn mt-lg-5 mt-4 py-4 font-weight-bold raleway-font">Conheça nossos serviços</a>
+        </div>
+    </div>
+    <div class="col-lg-4 p-5">
+      <img src="{{asset('images/icon-diferente.png')}}" class="img-fluid pt-5" alt="content-photo">
+    </div>
+  </div>
+</section>
+
+ <!-- w3l-content-photo-5
  <div class="w3l-content-photo-5 py-5">
    <div class="content-main py-lg-5 py-md-3">
     <div class="container">
      <div class="row">
       <div class="col-lg-8 content-left text-justify">
-       <h3>UMA AGÊNCIA DIFERENTE</h3>
-       <p class="mb-0">Somos mais que uma agência, somos uma equipe de soluções e
+       <h1 class="mb-5 font-weight-bold">UMA AGÊNCIA DIFERENTE</h1>
+       <p class="mt-md-4 mt-3 mb-0" id="teste">Somos mais que uma agência, somos uma equipe de soluções e
         resultados completos, onde diferentes talentos se unem
         conectando ideias, inspirações e conhecimentos para tocar as
         mentes e os corações de consumidores em todas as suas
-        conexões, plataformas e estações.
-        Atena Agência traz para você os melhores profissionais que
+        conexões, plataformas e estações. </p><br>
+
+        <p class="mt-md-4 mt-3 mb-0" id="teste">A Atena Agência traz para você os melhores profissionais que
         usarão seus poderes de cavalheiros cibernéticos como:
         desenvolvimento web, palestras e treinamentos, marketing e
         mídias digitais, assessoria de imprensa, design gráfico,
         campanhas publicitárias, materiais gráfico e planejamento
-      estratégico</p>
+        estratégico.</p>
       <a href="#portfolio" class="primary-btn-style btn-primary btn mt-lg-5 mt-4">Conheça nossos serviços</a>
     </div>
-    <div class="col-lg-4  mt-lg-0 mt-sm-5 mb-md-0 mb-4 " >
-     <a href="#img"><img src="images/icon-diferente.png" class="img-fluid" alt="content-photo"></a>
+    <div class="row justify-text-center"></div>
+    <div class="col-lg-4 mt-lg-5 mt-sm-5 mb-md-0 mb-4">
+      <div class="text-center">
+        <a href="#img"><img src="{{asset('images/icon-diferente.png')}}" class="img-fluid" alt="content-photo"></a>
+     </div>
    </div>
  </div>
 </div>
 </div>
-</div>
+</div> -->
+
+
 <!-- //w3l-content-photo-5 -->
 <section class="w3l-stats py-lg-5 py-4" id="stats">
   <div class="gallery-inner container py-md-5 py-4">
@@ -54,49 +102,48 @@
     </div>
   </div>
 </section>
-<!-- gallery-7 -->
-<section class="w3l-gallery-7 bg-light py-5">
-	<div class="gallery-7_sur py-lg-5">
-		<div class="container">
-			<div id="container">
-				<div class="galleryContainer">
-					<div class="gallery">
-						<input type="radio" name="controls" id="c1" checked><img class="galleryImage img-fluid" id="i1"
-           src="images/g1.jpg" class="img" alt="">
-           <input type="radio" name="controls" id="c2"><img class="galleryImage img-fluid" id="i2"
-           src="images/g2.jpg" class="img" alt="">
-           <input type="radio" name="controls" id="c3"><img class="galleryImage img-fluid" id="i3"
-           src="images/g3.jpg" class="img" alt="">
-           <input type="radio" name="controls" id="c4"><img class="galleryImage img-fluid" id="i4"
-           src="images/g4.jpg" class="img" alt="">
-           <input type="radio" name="controls" id="c5"><img class="galleryImage img-fluid" id="i5"
-           src="images/g5.jpg" class="img" alt="">
-           <input type="radio" name="controls" id="c6"><img class="galleryImage img-fluid" id="i6"
-           src="images/g6.jpg" class="img" alt="">
-         </div>
-         <div class="thumbnails">
-          <label class="thumbnailImage" for="c1"><img src="images/g1.jpg" class="img img-fluid"
-            alt=""></label>
+
+
+<!-- <section class="w3l-gallery-7 bg-light py-5">
+<div class="gallery-7_sur py-lg-5">
+  <div class="container">
+    <div id="container">
+      <div class="galleryContainer">
+          <div class="gallery">
+            <input type="radio" name="controls" id="c1" checked><img class="galleryImage img-fluid" id="i1"
+            src="images/g1.jpg" class="img" alt="">
+            <input type="radio" name="controls" id="c2"><img class="galleryImage img-fluid" id="i2"
+            src="images/g2.jpg" class="img" alt="">
+            <input type="radio" name="controls" id="c3"><img class="galleryImage img-fluid" id="i3"
+            src="images/g3.jpg" class="img" alt="">
+            <input type="radio" name="controls" id="c4"><img class="galleryImage img-fluid" id="i4"
+            src="images/g4.jpg" class="img" alt="">
+            <input type="radio" name="controls" id="c5"><img class="galleryImage img-fluid" id="i5"
+            src="images/g5.jpg" class="img" alt="">
+            <input type="radio" name="controls" id="c6"><img class="galleryImage img-fluid" id="i6"
+            src="images/g6.jpg" class="img" alt="">
+          </div>
+          <div class="thumbnails">
+            <label class="thumbnailImage" for="c1"><img src="images/g1.jpg" class="img img-fluid"
+              alt=""></label>
             <label class="thumbnailImage" for="c2"><img src="images/g2.jpg" class="img img-fluid"
               alt=""></label>
-              <label class="thumbnailImage" for="c3"><img src="images/g3.jpg" class="img img-fluid"
-                alt=""></label>
-                <label class="thumbnailImage" for="c4"><img src="images/g4.jpg" class="img img-fluid"
-                  alt=""></label>
-                  <label class="thumbnailImage" for="c5"><img src="images/g5.jpg" class="img img-fluid"
-                    alt=""></label>
-                    <label class="thumbnailImage" for="c6"><img src="images/g6.jpg" class="img img-fluid"
-                      alt=""></label>
+            <label class="thumbnailImage" for="c3"><img src="images/g3.jpg" class="img img-fluid"
+              alt=""></label>
+            <label class="thumbnailImage" for="c4"><img src="images/g4.jpg" class="img img-fluid"
+              alt=""></label>
+            <label class="thumbnailImage" for="c5"><img src="images/g5.jpg" class="img img-fluid"
+              alt=""></label>
+            <label class="thumbnailImage" for="c6"><img src="images/g6.jpg" class="img img-fluid"
+              alt=""></label>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section> -->
 
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </section>
-          <!-- //gallery-7 -->
 
-          <!-- iphone home block -->
       <!--     <section class="w3l-blog py-5">
             <div class="container py-lg-5">
               <div class="row">

@@ -22,6 +22,9 @@ Route::get('/serviços', function () {
 Route::get('/quemsomos', function () {
     return view('site.page.quemsomos');
 });
+Route::get('/nossotime', function () {
+    return view('site.page.nossotime');
+});
 Route::get('/cases', function () {
     return view('site.page.cases');
 });

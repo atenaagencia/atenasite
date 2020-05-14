@@ -18,6 +18,14 @@
 </head>
 
 <body>
+
+<style>
+.pagination__button:before {
+    height: 2px;
+    background-color: white;
+}
+</style>
+
   <!-- header -->
   <div class="w3l-header" id="home">
     <div class="container">
