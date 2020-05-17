@@ -1,5 +1,5 @@
 <nav class="navbar navbar-expand-lg navbar-dark pl-0 pr-0">
-    <a class="navbar-brand m-0 text-white" href="/index.html">
+    <a class="navbar-brand m-0 text-white" href="/">
       <img src="{{asset('images/atena_white.png')}}" alt="" style="width: 150px;">  
     </a> 
     <!-- <span class="logo">portfolio</span>-->
@@ -19,15 +19,15 @@
           aria-haspopup="true" aria-expanded="false">
         A Atena</a>
         <div class="dropdown-menu text-white" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item font-weight-bold" href="/quemsomos">Quem Somos</a>
-          <a class="dropdown-item font-weight-bold" href="portfolio.html">Equipe</a>
+          <a class="dropdown-item font-weight-bold" href="{{asset('quemsomos')}}">Quem Somos</a>
+          <a class="dropdown-item font-weight-bold" href="{{asset('nossotime')}}">Equipe</a>
         </div>
       </li>
         <li class="nav-item  mr-lg-4">
-        <a class="nav-link pl-0 pr-0 font-weight-bold" href="/serviços">Serviços</a>
+        <a class="nav-link pl-0 pr-0 font-weight-bold" href="{{asset('servicos')}}">Serviços</a>
         </li>
         <li class="nav-item  mr-lg-4">
-          <a class="nav-link pl-0 pr-0 font-weight-bold" href="/cases">Cases</a>
+          <a class="nav-link pl-0 pr-0 font-weight-bold" href="{{asset('cases')}}">Cases</a>
           </li>
       {{-- <li class="nav-item dropdown mr-lg-3">
         <a class="nav-link dropdown-toggle font-weight-bold" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"

@@ -20,8 +20,8 @@ p#teste {
 <section class="p-5 text-center bg-light text-dark">
   <div class="row justify-content-center">
     <div class="col-lg-8 p-5 text-justify">
-        <div class="col-lg-8 offset-lg-2">
-          <h1 class="mb-5 raleway-font display-4 text-purple">Uma agência diferente.</h1>
+        <div class="col-lg-10 offset-lg-1">
+          <h1 class="mb-5 raleway-font display-4 text-purple text-left">Uma agência diferente.</h1>
           <p class="mt-md-4 mt-3 mb-0 raleway-font text-dark" id="teste">Somos mais que uma agência, somos uma equipe de soluções e
           resultados completos, onde diferentes talentos se unem
           conectando ideias, inspirações e conhecimentos para tocar as
@@ -36,8 +36,10 @@ p#teste {
           <a href="#portfolio" class="primary-btn-style btn-primary btn mt-lg-5 mt-4 py-4 font-weight-bold raleway-font">Conheça nossos serviços</a>
         </div>
     </div>
-    <div class="col-lg-4 p-5">
-      <img src="{{asset('images/icon-diferente.png')}}" class="img-fluid pt-5" alt="content-photo">
+    <div class="col-lg-4 d-lg-block d-none p-5">
+      <div class="conteudo" style="flex: 1; padding: 180px 0px">
+        <img src="{{asset('images/icon-diferente.png')}}" class="img-fluid pt-5" style="" alt="content-photo">
+      </div>
     </div>
   </div>
 </section>

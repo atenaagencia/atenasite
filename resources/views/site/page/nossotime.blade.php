@@ -1,15 +1,24 @@
 @extends('site.layouts.pagetemplate')
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-
+<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap" rel="stylesheet">
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 
 <link href="{{asset('css/nossotime.css')}}" rel="stylesheet">
 
+<style>
+.text-purple{
+  color: purple !important;
+}
+.raleway-font{
+  font-family: 'Raleway', sans-serif;
+}
+</style>
 @section('conteudo')
 <!-- Team -->
-<section id="team" class="">
+<section id="team" class="pt-5 pb-5 bg-light">
     <div class="container">
-        <h5 class="section-title h1">OUR TEAM</h5>
+        <h1 class="mb-4 mt-4 raleway-font display-4 font-weight-bold text-purple text-center">Nosso Time</h1>
+        <p class="lead text-center text-dark font-italic mb-5">Conheça o time que faz a atena agência mais forte.</p><br>
         <div class="row">
             <!-- Team member -->
             <div class="col-xs-12 col-sm-6 col-md-4">
