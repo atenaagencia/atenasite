@@ -12,12 +12,15 @@
 .raleway-font{
   font-family: 'Raleway', sans-serif;
 }
+.bg-purple{
+    background-color: purple !important;
+}
 </style>
 @section('conteudo')
 <!-- Team -->
-<section id="team" class="pt-5 pb-5 bg-light">
-    <div class="container">
-        <h1 class="mb-4 mt-4 raleway-font display-4 font-weight-bold text-purple text-center">Nosso Time</h1>
+<section id="team" class="border-light border-top pt-5 pb-5 bg-white">
+    <div class="container pb-5">
+        <h1 class="mb-4 mt-4 raleway-font display-4 font-weight-bold text-purple text-center">Nosso Time</h1><hr width="30%">
         <p class="lead text-center text-dark font-italic mb-5">Conheça o time que faz a atena agência mais forte.</p><br>
         <div class="row">
             <!-- Team member -->
@@ -116,6 +119,7 @@
                 </div>
             </div>
             <!-- ./Team member -->
+            
             <!-- Team member -->
             <div class="col-xs-12 col-sm-6 col-md-4">
                 <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
@@ -134,54 +138,6 @@
                             <div class="card">
                                 <div class="card-body text-center mt-4">
                                     <h4 class="card-title">Gerente Comercial</h4>
-                                    <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
-                                    <ul class="list-inline">
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-facebook"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-twitter"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-skype"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-google"></i>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- ./Team member -->
-            <!-- Team member -->
-            <div class="col-xs-12 col-sm-6 col-md-4">
-                <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
-                    <div class="mainflip">
-                        <div class="frontside">
-                            <div class="card">
-                                <div class="card-body text-center">
-                                    <p><img class=" img-fluid" src="https://sunlimetech.com/portfolio/boot4menu/assets/imgs/team/img_04.jpg" alt="card image"></p>
-                                    <h4 class="card-title">Philip Ramon</h4>
-                                    <p class="card-text">This is basic card with image on top, title, description and button.</p>
-                                    <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="backside">
-                            <div class="card">
-                                <div class="card-body text-center mt-4">
-                                    <h4 class="card-title">Supervisor de Desenvolvimento</h4>
                                     <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
                                     <ul class="list-inline">
                                         <li class="list-inline-item">
@@ -317,8 +273,8 @@
                         <div class="frontside">
                             <div class="card">
                                 <div class="card-body text-center">
-                                    <p><img class=" img-fluid" src="https://dcnt5qvi2hv76.cloudfront.net/b12410825/resize_cache/42/23365dd92c1f65a6eb81283cfddb6812/main/40a/40a2694129a041413655aceb315db8f4/WhatsApp+Image+2020-02-01+at+18.55.41.jpeg?h=atenaagencia.bitrix24.com.br" alt="card image"></p>
-                                    <h4 class="card-title">Reinaldo Manoel</h4>
+                                    <p><img class=" img-fluid" src="https://via.placeholder.com/400x400" alt="card image"></p>
+                                    <h4 class="card-title">Danilo Souza</h4>
                                     <p class="card-text">This is basic card with image on top, title, description and button.</p>
                                     <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
                                 </div>
@@ -327,7 +283,7 @@
                         <div class="backside">
                             <div class="card">
                                 <div class="card-body text-center mt-4">
-                                    <h4 class="card-title">Desenvolvedor Júnior</h4>
+                                    <h4 class="card-title">Jornalista</h4>
                                     <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
                                     <ul class="list-inline">
                                         <li class="list-inline-item">
@@ -366,8 +322,8 @@
                         <div class="frontside">
                             <div class="card">
                                 <div class="card-body text-center">
-                                    <p><img class=" img-fluid" src="https://via.placeholder.com/400x400" alt="card image"></p>
-                                    <h4 class="card-title">Danilo Souza</h4>
+                                    <p><img class=" img-fluid" src="https://dcnt5qvi2hv76.cloudfront.net/b12410825/resize_cache/236/23365dd92c1f65a6eb81283cfddb6812/main/948/9481422005f0ee91b392d46f70d72c31/avatar.png" alt="card image"></p>
+                                    <h4 class="card-title">Philip Ramon</h4>
                                     <p class="card-text">This is basic card with image on top, title, description and button.</p>
                                     <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
                                 </div>
@@ -376,7 +332,55 @@
                         <div class="backside">
                             <div class="card">
                                 <div class="card-body text-center mt-4">
-                                    <h4 class="card-title">Jornalista</h4>
+                                    <h4 class="card-title">Supervisor de Desenvolvimento</h4>
+                                    <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
+                                    <ul class="list-inline">
+                                        <li class="list-inline-item">
+                                            <a class="social-icon text-xs-center" target="_blank" href="#">
+                                                <i class="fa fa-facebook"></i>
+                                            </a>
+                                        </li>
+                                        <li class="list-inline-item">
+                                            <a class="social-icon text-xs-center" target="_blank" href="#">
+                                                <i class="fa fa-twitter"></i>
+                                            </a>
+                                        </li>
+                                        <li class="list-inline-item">
+                                            <a class="social-icon text-xs-center" target="_blank" href="#">
+                                                <i class="fa fa-skype"></i>
+                                            </a>
+                                        </li>
+                                        <li class="list-inline-item">
+                                            <a class="social-icon text-xs-center" target="_blank" href="#">
+                                                <i class="fa fa-google"></i>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- ./Team member -->
+            <!-- Team member -->
+            <div class="col-xs-12 col-sm-6 col-md-4">
+                <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
+                    <div class="mainflip">
+                        <div class="frontside">
+                            <div class="card">
+                                <div class="card-body text-center">
+                                    <p><img class=" img-fluid" src="https://dcnt5qvi2hv76.cloudfront.net/b12410825/resize_cache/42/23365dd92c1f65a6eb81283cfddb6812/main/40a/40a2694129a041413655aceb315db8f4/WhatsApp+Image+2020-02-01+at+18.55.41.jpeg?h=atenaagencia.bitrix24.com.br" alt="card image"></p>
+                                    <h4 class="card-title">Reinaldo Manoel</h4>
+                                    <p class="card-text">This is basic card with image on top, title, description and button.</p>
+                                    <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="backside">
+                            <div class="card">
+                                <div class="card-body text-center mt-4">
+                                    <h4 class="card-title">Desenvolvedor Júnior</h4>
                                     <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
                                     <ul class="list-inline">
                                         <li class="list-inline-item">
