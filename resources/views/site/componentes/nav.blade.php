@@ -10,7 +10,7 @@
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav ml-auto">
       <li class="nav-item active mr-lg-4">
-        <a class="nav-link pl-0 pr-0 font-weight-bold" href="/">Home <span
+        <a class="nav-link pl-0 pr-0 font-weight-bold" href="./">Home <span
           class="sr-only">(current)</span></a>
         </li>
       
