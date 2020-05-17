@@ -41,7 +41,7 @@ b{
     </div>
 </div>
 
-<div class="w3l-open-block-services pb-5 pt-0 mb-0">
+<div class="w3l-open-block-services pb-5 pt-0 mb-5">
     <div class="container py-lg-1 pb-5 pt-0 mb-0">
         <div class="row mt-5 pt-0 pb-5">
             <div class="col-lg-4 col-md-6">
@@ -73,14 +73,53 @@ b{
                     <div class="icon-holder">
                         <span class="fa fa-adjust service-icon bg-purple" aria-hidden="true"></span>
                     </div>
-                    <h4 class="mission">Assessoria Digital</h4>
+                    <h4 class="mission">Criação Gráfica</h4>
                     <div class="open-description">
                         <p>Planejamento periódico de cada midia. Assessorar conteúdo das redes sociais,
                            e acompanhar em tempo real as interações dos usuários.</p>
-                        <a href="#assessoria" class="text-primary">Saiba mais</a>
+                        <a href="#criacao" class="text-primary">Saiba mais</a>
+                    </div>
+                </div>
+            </div> 
+            <div class="col-lg-4 col-md-6 mt-5 pt-lg-0 pt-3">
+                <div class="card text-center">
+                    <div class="icon-holder">
+                        <span class="fa fa-adjust service-icon bg-purple" aria-hidden="true"></span>
+                    </div>
+                    <h4 class="mission">Gerenciamento de Redes Sociais</h4>
+                    <div class="open-description">
+                        <p>Planejamento periódico de cada midia. Assessorar conteúdo das redes sociais,
+                           e acompanhar em tempo real as interações dos usuários.</p>
+                        <a href="#redes_sociais" class="text-primary">Saiba mais</a>
                     </div>
                 </div>
             </div>
+            <div class="col-lg-4 col-md-6 mt-5 pt-lg-0 pt-3">
+                <div class="card text-center">
+                    <div class="icon-holder">
+                        <span class="fa fa-adjust service-icon bg-purple" aria-hidden="true"></span>
+                    </div>
+                    <h4 class="mission">Marketing Digital</h4>
+                    <div class="open-description">
+                        <p>Planejamento periódico de cada midia. Assessorar conteúdo das redes sociais,
+                           e acompanhar em tempo real as interações dos usuários.</p><br>
+                        <a href="#marketing_digital" class="text-primary">Saiba mais</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mt-5 pt-lg-0 pt-3">
+                <div class="card text-center">
+                    <div class="icon-holder">
+                        <span class="fa fa-adjust service-icon bg-purple" aria-hidden="true"></span>
+                    </div>
+                    <h4 class="mission">Assessoria Digital</h4>
+                    <div class="open-description">
+                        <p>Planejamento periódico de cada midia. Assessorar conteúdo das redes sociais,
+                           e acompanhar em tempo real as interações dos usuários.</p><br>
+                        <a href="#assessoria" class="text-primary">Saiba mais</a>
+                    </div>
+                </div>
+            </div>           
         </div>
     </div>
 </div>
@@ -118,6 +157,64 @@ b{
             <div class="text-justify">
                 <p class="text-center lead" style="font-size: 20pt; line-height: 1.6;">Os sistemas desenvolvidos por nossos cavaleiros cibernéticos utilizam o framework PHP <b>Laravel</b>, aliados a ferramentas
                 de interação como <b>VUE JS</b>, <b>JavaScript</b> e <b>Jquery</b>, além de ferramentas de apoio à criação, como o <b>Bootstrap 4</b> e a folha de estilos <b>CSS3</b>.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="w3-services py-5 bg-light" id="criacao">
+    <div class="container py-lg-3">
+        <div class="title-section">
+            <!-- <h3 class="main-title-w3 text-lg-center">Nossos Serviços</h3> -->
+            <h1 class="mb-4 mt-4 raleway-font display-4 font-weight-bold text-purple text-center">Criação Gráfica</h1><br>
+            <div class="row justify-content-center">
+                <div class="title-line" style="width: 50%"></div>
+            </div>
+        </div>
+        <div class="w3-services-grids mt-lg-5 mt-4 col-lg-10 offset-lg-1 text-center">
+            <div class="text-justify">
+                <p class="text-center lead" style="font-size: 20pt; line-height: 1.6;">
+                    Analisamos e planejamos de que maneira podemos utilizar nossos serviços para te satisfazer 
+                    e trabalhamos com elementos gráficos como: criação de logotipos, cartões de visita, envelopes, 
+                    papel timbrado, favicon de site, panfletos e outros produtos que serão traçados conforme o planejamento.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="w3-services py-5 bg-light" id="redes_sociais">
+    <div class="container py-lg-3">
+        <div class="title-section">
+            <!-- <h3 class="main-title-w3 text-lg-center">Nossos Serviços</h3> -->
+            <h1 class="mb-4 mt-4 raleway-font display-4 font-weight-bold text-purple text-center">Gerenciamento de Redes Sociais</h1><br>
+            <div class="row justify-content-center">
+                <div class="title-line" style="width: 50%"></div>
+            </div>
+        </div>
+        <div class="w3-services-grids mt-lg-5 mt-4 col-lg-10 offset-lg-1 text-center">
+            <div class="text-justify">
+                <p class="text-center lead" style="font-size: 20pt; line-height: 1.6;">Análise, produção de conteúdo, monitoramento e relacionamento diário e ativo com o publico da marca.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="w3-services py-5 bg-light" id="marketing_digital">
+    <div class="container py-lg-3">
+        <div class="title-section">
+            <!-- <h3 class="main-title-w3 text-lg-center">Nossos Serviços</h3> -->
+            <h1 class="mb-4 mt-4 raleway-font display-4 font-weight-bold text-purple text-center">Marketing Digital</h1><br>
+            <div class="row justify-content-center">
+                <div class="title-line" style="width: 50%"></div>
+            </div>
+        </div>
+        <div class="w3-services-grids mt-lg-5 mt-4 col-lg-10 offset-lg-1 text-center">
+            <div class="text-justify">
+                <p class="text-center lead" style="font-size: 20pt; line-height: 1.6;">
+                Promover estratégias, anteriormente estudadas para ser aplicadas online pelas empresas, 
+                atraindo novos negócios, gerando relacionamentos, aprimorando nas identidades das marcas.
+                </p>
             </div>
         </div>
     </div>
