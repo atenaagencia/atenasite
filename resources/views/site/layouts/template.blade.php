@@ -27,7 +27,7 @@
 </style>
 
   <!-- header -->
-  <div class="w3l-header" id="home">
+  <div class="w3l-header " id="home">
     <div class="container">
      @include('site.componentes.nav')
 </div>
