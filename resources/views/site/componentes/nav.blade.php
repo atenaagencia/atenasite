@@ -26,9 +26,9 @@
         <li class="nav-item  mr-lg-4">
         <a class="nav-link pl-0 pr-0 font-weight-bold" href="{{asset('servicos')}}">Serviços</a>
         </li>
-        <li class="nav-item  mr-lg-4">
+        <!-- <li class="nav-item  mr-lg-4">
           <a class="nav-link pl-0 pr-0 font-weight-bold" href="{{asset('cases')}}">Cases</a>
-          </li>
+          </li> -->
       {{-- <li class="nav-item dropdown mr-lg-3">
         <a class="nav-link dropdown-toggle font-weight-bold" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
         aria-haspopup="true" aria-expanded="false">
