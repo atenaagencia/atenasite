@@ -420,7 +420,7 @@
                             <div class="card">
                                 <div class="card-body text-center">
                                     <p><img class=" img-fluid" src="https://via.placeholder.com/400x400" alt="card image"></p>
-                                    <h4 class="card-title">Henrique</h4>
+                                    <h4 class="card-title">João Henrique</h4>
                                     <p class="card-text">This is basic card with image on top, title, description and button.</p>
                                     <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
                                 </div>

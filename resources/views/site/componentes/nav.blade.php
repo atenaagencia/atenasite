@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-dark pl-0 pr-0">
     <a class="navbar-brand m-0 text-white" href="/">
-      <img src="{{asset('images/atena_white.png')}}" alt="" style="width: 150px;">  
+      <img src="{{asset('images/logo_white.png')}}" alt="" style="width: 200px">  
     </a> 
     <!-- <span class="logo">portfolio</span>-->
     <button class="navbar-toggler bg-purple" type="button" data-toggle="collapse" data-target="#navbarNav"
