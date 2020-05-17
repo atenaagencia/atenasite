@@ -33,7 +33,8 @@ section .section-title {
 
 #team .card {
     /* border: 1px solid #ffc107; */
-    background: #ffffff;
+    /* background: #f8f9fa; */
+    border: 1px solid purple !important;
 }
 
 .image-flip:hover .backside,

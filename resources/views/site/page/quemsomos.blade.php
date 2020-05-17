@@ -1,23 +1,41 @@
 @extends('site.layouts.pagetemplate')
+
+<style>
+.bg-purple{
+    border: 2px solid purple !important;
+    background-color: purple;
+    color: white !important;
+    font-weight: 600;
+    padding: 20px 20px !important;
+}
+/* .bg-purple:hover{
+    border: 2px solid purple !important;
+    background-color: white !important;
+    color: purple !important;
+    font-weight: 700 !important;
+    padding: 20px 20px !important;
+} */
+</style>
 @section('conteudo')
     <!-- about me -->
-    <div class="w3l-about py-5">
+    <div class="w3l-about py-5 text-black">
         <div class="container py-lg-3">
             <div class="row about-content mb-lg-5">
                 <div class="col-lg-6 pr-md-5">
-                    <div class="image-block">
+                    <div class="image-block py-5">
                         <img src="images/me.png" class="img-fluid myphoto" alt="my photo" />
                         <img src="images/cross.png" class="img-fluid pos" alt="dots" />
                     </div>
                 </div>
-                <div class="col-lg-6 info pl-lg-5 mt-lg-0 mt-5 pt-lg-0 pt-3 align-center">
-                    <h4 class="">I’m Alexander Lihiliho</h4>
-                    <p class="mt-md-4 mt-3 mb-0"> A Web Developer based in London.
-                        I specialize in Branding and Strategy, and am passionate about creating Awesome Portfolio work.
-                    </p>
-                    <img src="images/signature.png" class="img-fluid signature" width="300px" alt="my photo" />
-                    <p class="m-0 mb-2">Alexander Lihiliho</p>
-                    <h6>20/10/2000.</h6>
+                <div class="col-lg-6 info pl-lg-5 mt-lg-0 mt-5 pt-lg-0 pt-3 align-center ">
+                    <h4 class="text-uppercase font-weight-bold py-4 p-lg-3">O começo de tudo</h4>
+                    <p class="mt-md-4 mt-3 mb-0 p-lg-3 text-dark text-justify"> Tudo começou em <b>30 maio de 2017</b>, quando dois estudantes de computação e um estudante 
+                    de publicidade resolveram reunir suas habilidades para entrar no mercado de trabalho. <br><br>Sabendo dos desafios da vida
+                    de um empreendedor e com a vontade de crescer no mercado de trabalho embarcaram nessa caminhada, trazendo habilidades
+                    em Design Gráfico, Web Design, Publicidade e Marketing Digital. <br><br> Carregando uma nova ideia de se trabalhar em equipe, 
+                    capacitando-se todos os dias para desenvolver o melhor e satifazer com excelência a todos que embarcarem nessa jornada 
+                    conosco. Afinal construir em equipe é dificil, mas nos traz a certeza que em uma luta, não estaremos sós.</p>
+                    <p class="p-lg-3 lead text-dark">Prazer, cavalheiros cibernéticos. <br><br>  <a href="{{asset('nossotime')}}" class="font-weight-bold bg-purple btn btn-light" style="text-transform: none !important">Nós somos a ATENA AGÊNCIA.</a></p>
                 </div>
             </div>
         </div>
@@ -54,7 +72,7 @@
     <!-- //stats -->
 
     <!-- about my profile -->
-    <section class="w3l-about-bottom py-5" id="about">
+    <!-- <section class="w3l-about-bottom py-5" id="about">
         <div class="container py-lg-5 py-md-3">
             <div class="row middle-grids">
                 <div class="col-lg-7 advantage-grid-info">
@@ -81,7 +99,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- //about my profile -->
 
     {{-- <!-- skills and hobbies -->
