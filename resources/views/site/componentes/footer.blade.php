@@ -90,7 +90,7 @@ el: slidersContainer,
 cssClass: 'ms--titles',
 range: [0, 3],
 rangeContent: function (i) {
- return '<h4 class="titulo-banner">' + titles[i] + '</h4>';
+ return '<h4 class="titulo-banner py-4 p-3">' + titles[i] + '</h4>';
 },
 vertical: true,
 reverse: true,
@@ -108,7 +108,7 @@ el: slidersContainer,
 cssClass: 'ms--links',
 range: [0, 3],
 rangeContent: function () {
- return '<a href="about.html" class="ms-slide__link btn">Ver mais</a>';
+ return '<a href="{{asset('servicos')}}" class="ms-slide__link btn">Ver mais</a>';
 },
 vertical: true,
 interactive: false
