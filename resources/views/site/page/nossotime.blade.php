@@ -30,9 +30,9 @@
                         <div class="frontside">
                             <div class="card">
                                 <div class="card-body text-center">
-                                    <p><img class="img-fluid" src="https://cdn.bitrix24.com.br/b12410825/main/130/13077b269e2a84fc9530a07769560609/e54b17e667440eafdc4f97556e858d11.jpg" alt="card image"></p>
+                                    <p><img class="img-fluid" src="equipe/herbet.jpg" alt="card image"></p>
                                     <h4 class="card-title">Herbet Junior</h4>
-                                    <p class="card-text">CEO</p>
+                                    <p class="card-text">CEO | Fundadador</p>
                                     <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
                                 </div>
                             </div>
@@ -41,7 +41,7 @@
                             <div class="card">
                                 <div class="card-body text-center mt-4">
                                     <h4 class="card-title">Herbet</h4>
-                                    <p class="card-text">Diretoria Executiva, Diretoria de Desenvolvimento e Criação.</p>
+                                    <p class="card-text">. Diretoria Executiva, Diretoria de Desenvolvimento e Criação. Designer Gráfico e Desenvolvedor.</p>
                                     <ul class="list-inline">
                                         <li class="list-inline-item">
                                             <a class="social-icon text-xs-center" target="_blank" href="#">
@@ -80,7 +80,7 @@
                                 <div class="card-body text-center">
                                     <p><img class=" img-fluid" src="https://dcnt5qvi2hv76.cloudfront.net/b12410825/resize_cache/94/23365dd92c1f65a6eb81283cfddb6812/main/c5f/c5faaa6c0e0c0e986cd0ddf198dabcb7/WIN_20200201_23_15_52_Pro.jpg" alt="card image"></p>
                                     <h4 class="card-title">Itala Maiane</h4>
-                                    <p class="card-text">Publicitária</p>
+                                    <p class="card-text">Publicitária | Sócia</p>
                                     <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
                                 </div>
                             </div>
@@ -89,7 +89,7 @@
                             <div class="card">
                                 <div class="card-body text-center mt-4">
                                     <h4 class="card-title">Itala</h4>
-                                    <p class="card-text">Diretoria Executiva, Diretoria de Comunicação e Publicidade.</p>
+                                    <p class="card-text">. Designer gráfica.Diretoria Executiva, Diretoria de Comunicação e Publicidade.</p>
                                     <ul class="list-inline">
                                         <li class="list-inline-item">
                                             <a class="social-icon text-xs-center" target="_blank" href="#">
@@ -138,7 +138,57 @@
                             <div class="card">
                                 <div class="card-body text-center mt-4">
                                     <h4 class="card-title">Jeferson</h4>
-                                    <p class="card-text">Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+                                    <p class="card-text">. Gestão comercial. Consultoria de Vendas e Relacionamento</p>
+                                    <ul class="list-inline">
+                                        <li class="list-inline-item">
+                                            <a class="social-icon text-xs-center" target="_blank" href="#">
+                                                <i class="fa fa-facebook"></i>
+                                            </a>
+                                        </li>
+                                        <li class="list-inline-item">
+                                            <a class="social-icon text-xs-center" target="_blank" href="#">
+                                                <i class="fa fa-twitter"></i>
+                                            </a>
+                                        </li>
+                                        <li class="list-inline-item">
+                                            <a class="social-icon text-xs-center" target="_blank" href="#">
+                                                <i class="fa fa-skype"></i>
+                                            </a>
+                                        </li>
+                                        <li class="list-inline-item">
+                                            <a class="social-icon text-xs-center" target="_blank" href="#">
+                                                <i class="fa fa-google"></i>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- ./Team member -->
+            <!-- Team member -->
+            <div class="col-xs-12 col-sm-6 col-md-4">
+                <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
+                    <div class="mainflip">
+                        <div class="frontside">
+                            <div class="card">
+                                <div class="card-body text-center">
+                                    <p><img class=" img-fluid"
+                                            src="https://dcnt5qvi2hv76.cloudfront.net/b12410825/resize_cache/236/23365dd92c1f65a6eb81283cfddb6812/main/948/9481422005f0ee91b392d46f70d72c31/avatar.png"
+                                            alt="card image"></p>
+                                    <h4 class="card-title">Philip Ramon</h4>
+                                    <p class="card-text">Gerente de Desenvolvimento e Criação</p>
+                                    <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="backside">
+                            <div class="card">
+                                <div class="card-body text-center mt-4">
+                                    <h4 class="card-title">Philip</h4>
+                                    <p class="card-text">. Desenvolvedor, Diretoria de Desenvolvimento e Criação.</p>
                                     <ul class="list-inline">
                                         <li class="list-inline-item">
                                             <a class="social-icon text-xs-center" target="_blank" href="#">
@@ -186,7 +236,7 @@
                             <div class="card">
                                 <div class="card-body text-center mt-4">
                                     <h4 class="card-title">Priscila</h4>
-                                    <p class="card-text">Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+                                    <p class="card-text"> Recursos humanos, Aux. Admisnitrativo</p>
                                     <ul class="list-inline">
                                         <li class="list-inline-item">
                                             <a class="social-icon text-xs-center" target="_blank" href="#">
@@ -235,7 +285,7 @@
                             <div class="card">
                                 <div class="card-body text-center mt-4">
                                     <h4 class="card-title">Joara</h4>
-                                    <p class="card-text">Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+                                    <p class="card-text">Setor comercial, Relacionamento com o cliente.</p>
                                     <ul class="list-inline">
                                         <li class="list-inline-item">
                                             <a class="social-icon text-xs-center" target="_blank" href="#">
@@ -273,7 +323,7 @@
                         <div class="frontside">
                             <div class="card">
                                 <div class="card-body text-center">
-                                    <p><img class=" img-fluid" src="https://via.placeholder.com/400x400" alt="card image"></p>
+                                    <p><img class=" img-fluid" src="equipe/danilo.jpg" alt="card image"></p>
                                     <h4 class="card-title">Danilo Souza</h4>
                                     <p class="card-text">Jornalista</p>
                                     <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
@@ -284,7 +334,7 @@
                             <div class="card">
                                 <div class="card-body text-center mt-4">
                                     <h4 class="card-title">Danilo</h4>
-                                    <p class="card-text">Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+                                    <p class="card-text">Assessoria de comunicação e Marketing Jornalistíco</p>
                                     <ul class="list-inline">
                                         <li class="list-inline-item">
                                             <a class="social-icon text-xs-center" target="_blank" href="#">
@@ -315,54 +365,7 @@
             </div>
             <!-- ./Team member -->
 
-            <!-- Team member -->
-            <div class="col-xs-12 col-sm-6 col-md-4">
-                <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
-                    <div class="mainflip">
-                        <div class="frontside">
-                            <div class="card">
-                                <div class="card-body text-center">
-                                    <p><img class=" img-fluid" src="https://dcnt5qvi2hv76.cloudfront.net/b12410825/resize_cache/236/23365dd92c1f65a6eb81283cfddb6812/main/948/9481422005f0ee91b392d46f70d72c31/avatar.png" alt="card image"></p>
-                                    <h4 class="card-title">Philip Ramon</h4>
-                                    <p class="card-text">Programador</p>
-                                    <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="backside">
-                            <div class="card">
-                                <div class="card-body text-center mt-4">
-                                    <h4 class="card-title">Philip</h4>
-                                    <p class="card-text">Desenvolvedor, Diretoria de Desenvolvimento e Criação.</p>
-                                    <ul class="list-inline">
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-facebook"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-twitter"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-skype"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-google"></i>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- ./Team member -->
+          
             <!-- Team member -->
             <div class="col-xs-12 col-sm-6 col-md-4">
                 <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
@@ -381,7 +384,7 @@
                             <div class="card">
                                 <div class="card-body text-center mt-4">
                                     <h4 class="card-title">Reinaldo</h4>
-                                    <p class="card-text">Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+                                    <p class="card-text">Diretoria de Desenvolvimento e Criação</p>
                                     <ul class="list-inline">
                                         <li class="list-inline-item">
                                             <a class="social-icon text-xs-center" target="_blank" href="#">
@@ -419,7 +422,7 @@
                         <div class="frontside">
                             <div class="card">
                                 <div class="card-body text-center">
-                                    <p><img class=" img-fluid" src="https://via.placeholder.com/400x400" alt="card image"></p>
+                                    <p><img class=" img-fluid" src="equipe/joao.jpg" alt="card image"></p>
                                     <h4 class="card-title">João Henrique</h4>
                                     <p class="card-text">Programador</p>
                                     <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
@@ -430,7 +433,7 @@
                             <div class="card">
                                 <div class="card-body text-center mt-4">
                                     <h4 class="card-title">Henrique</h4>
-                                    <p class="card-text">Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+                                    <p class="card-text">Diretoria de Desenvolvimento e Criação</p>
                                     <ul class="list-inline">
                                         <li class="list-inline-item">
                                             <a class="social-icon text-xs-center" target="_blank" href="#">
@@ -468,7 +471,7 @@
                         <div class="frontside">
                             <div class="card">
                                 <div class="card-body text-center">
-                                    <p><img class=" img-fluid" src="https://via.placeholder.com/400x400" alt="card image"></p>
+                                    <p><img class=" img-fluid" src="equipe/ruhan.jpg" alt="card image"></p>
                                     <h4 class="card-title">Ruhan Brito</h4>
                                     <p class="card-text">Estagiário</p>
                                     <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
@@ -479,7 +482,7 @@
                             <div class="card">
                                 <div class="card-body text-center mt-4">
                                     <h4 class="card-title">Ruhan</h4>
-                                    <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
+                                    <p class="card-text">Diretoria de Desenvolvimento e Criação</p>
                                     <ul class="list-inline">
                                         <li class="list-inline-item">
                                             <a class="social-icon text-xs-center" target="_blank" href="#">
@@ -528,7 +531,7 @@
                             <div class="card">
                                 <div class="card-body text-center mt-4">
                                     <h4 class="card-title">Maikon</h4>
-                                    <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
+                                    <p class="card-text">Diretoria de Desenvolvimento e Criação.</p>
                                     <ul class="list-inline">
                                         <li class="list-inline-item">
                                             <a class="social-icon text-xs-center" target="_blank" href="#">
@@ -577,7 +580,7 @@
                             <div class="card">
                                 <div class="card-body text-center mt-4">
                                     <h4 class="card-title">Isla</h4>
-                                    <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
+                                    <p class="card-text">Diretoria de Desenvolvimento e Criaçãoo</p>
                                     <ul class="list-inline">
                                         <li class="list-inline-item">
                                             <a class="social-icon text-xs-center" target="_blank" href="#">
@@ -626,7 +629,7 @@
                             <div class="card">
                                 <div class="card-body text-center mt-4">
                                     <h4 class="card-title">Quele</h4>
-                                    <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
+                                    <p class="card-text">Setor de Desenvolvimento e Criação.</p>
                                     <ul class="list-inline">
                                         <li class="list-inline-item">
                                             <a class="social-icon text-xs-center" target="_blank" href="#">
