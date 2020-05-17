@@ -1,29 +1,46 @@
 @extends('site.layouts.pagetemplate')
 
+<style>
+.text-purple{
+  color: purple !important;
+}
+.raleway-font{
+  font-family: 'Raleway', sans-serif;
+}
+.bg-purple{
+    background-color: purple !important;
+}
+
+.card{
+    flex: 1 !important;
+    display: flex !important;
+    flex-direction: column !important;
+    min-height: 300px !important;
+}
+</style>
+
 @section('conteudo')
-<div class="w3-services py-5" id="services">
+<div class="w3-services py-5 mb-0 pb-0" id="services">
     <div class="container py-lg-3">
         <div class="title-section">
-            <h3 class="main-title-w3 text-lg-center">Nossos Serviços</h3>
-            <div class="title-line">
+            <!-- <h3 class="main-title-w3 text-lg-center">Nossos Serviços</h3> -->
+            <h1 class="mb-4 mt-4 raleway-font display-4 font-weight-bold text-purple text-center">Nossos Serviços</h1><br>
+            <div class="row justify-content-center">
+                <div class="title-line" style="width: 50%"></div>
             </div>
         </div>
-        <div class=" w3-services-grids mt-lg-5 mt-4">
-            <p class="text-justify">Lorem ipsum dolor sit amet, init sed adipisci ngelit. In a et euismod faucibus quam,
-                a sodales er
-                osplacerat vitae. Sed pretium fermentum luctus.Cras sodales nisl vitae dolor facilisis dapibus.
-                Integer consectetur in velit eget viverra. Quisque vulputate a nisi blandit molestie. Aenean sit
-                amet consequat risus, eget egestas est.Nullam eu turpis diam. Ut ac erat vestibulum, laoreet ex
-                faucibus, iaculis ex. Donec at dolor volutpat, laoreet nisi. </p>
-
-
+        <div class="w3-services-grids mt-lg-5 mt-4 col-lg-10 offset-lg-1 text-center">
+            <div class="text-justify">
+                <p class="text-center lead" style="font-size: 20pt; line-height: 1.6;">Os nossos serviços atendem publicos diversificados com estratégias específicas para cada negócio, usando sempre
+                as ferramentas mais atuais em nosso desenvolvimento.</p>
+            </div>
         </div>
     </div>
 </div>
-<div class="w3l-open-block-services py-5">
-    <div class="container py-lg-3">
-        <h3 class="head-title">What I Expert in</h3>
-        <div class="row mt-5 pt-3">
+
+<div class="w3l-open-block-services pb-5 pt-0 mb-0" style="top: 100px !important">
+    <div class="container py-lg-1 pb-5 pt-0 mb-0">
+        <div class="row mt-5 pt-0 pb-5">
             <div class="col-lg-4 col-md-6">
                 <div class="card text-center">
                     <div class="icon-holder">
@@ -55,8 +72,8 @@
                     </div>
                     <h4 class="mission">Assessoria Digital</h4>
                     <div class="open-description">
-                        <p>Planejamento mensal, trimensal ou anual de cada midia. Assessorar conteúdo das redes sociais,
-                            acompanhar em tempo real as interações dos usuários</p>
+                        <p>Planejamento periódico de cada midia. Assessorar conteúdo das redes sociais,
+                           e acompanhar em tempo real as interações dos usuários.</p>
                         <a href="#read" class="text-primary">Saiba mais</a>
                     </div>
                 </div>
@@ -103,7 +120,6 @@
 .w3l-open-block-services .card:hover .open-description p {
   color: #fff;
 }
-
 
 </style>
 @endsection
