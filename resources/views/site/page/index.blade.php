@@ -232,7 +232,7 @@ p#teste {
       <!-- Modal body -->
       <div class="modal-body">
         <button type="button" class="close text-white" data-dismiss="modal">&times;</button>
-       <img src="promos/bannerpromo.png" alt="" style="width:100%; max-width:100%;">
+       <a href="atenago"><img src="promos/bannerpromo.png" alt="" style="width:100%; max-width:100%;"></a>
       </div>
 
       <!-- Modal footer -->
