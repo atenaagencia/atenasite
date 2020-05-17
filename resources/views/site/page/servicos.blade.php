@@ -17,6 +17,9 @@
     flex-direction: column !important;
     min-height: 300px !important;
 }
+b{
+    font-weight: bold !important;
+}
 </style>
 
 @section('conteudo')
@@ -38,7 +41,7 @@
     </div>
 </div>
 
-<div class="w3l-open-block-services pb-5 pt-0 mb-0" style="top: 100px !important">
+<div class="w3l-open-block-services pb-5 pt-0 mb-0">
     <div class="container py-lg-1 pb-5 pt-0 mb-0">
         <div class="row mt-5 pt-0 pb-5">
             <div class="col-lg-4 col-md-6">
@@ -48,8 +51,8 @@
                     </div>
                     <h4 class="mission">Criação de Websites</h4>
                     <div class="open-description">
-                        <p>Trabalhamos com sites profissionais e administráveis sejam eles estáticos ou dinâmicos</p>
-                        <a href="#read" class="text-primary">Saiba mais</a>
+                        <p>Trabalhamos com sites profissionais e administráveis sejam eles estáticos ou dinâmicos.</p>
+                        <a href="#websites" class="text-primary">Saiba mais</a>
                     </div>
                 </div>
             </div>
@@ -60,8 +63,8 @@
                     </div>
                     <h4 class="mission">Desenvolvimentos de Sistemas e APPs</h4>
                     <div class="open-description">
-                        <p>Desenvolvimento de sistemas personalizados e de gestão</p>
-                        <a href="#read" class="text-primary">Saiba mais</a>
+                        <p>Desenvolvimento de sistemas personalizados e de gestão.</p>
+                        <a href="#sistemas" class="text-primary">Saiba mais</a>
                     </div>
                 </div>
             </div>
@@ -74,9 +77,65 @@
                     <div class="open-description">
                         <p>Planejamento periódico de cada midia. Assessorar conteúdo das redes sociais,
                            e acompanhar em tempo real as interações dos usuários.</p>
-                        <a href="#read" class="text-primary">Saiba mais</a>
+                        <a href="#assessoria" class="text-primary">Saiba mais</a>
                     </div>
                 </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="w3-services py-5 bg-light" id="websites">
+    <div class="container py-lg-3">
+        <div class="title-section">
+            <!-- <h3 class="main-title-w3 text-lg-center">Nossos Serviços</h3> -->
+            <h1 class="mb-4 mt-4 raleway-font display-4 font-weight-bold text-purple text-center">Criação de Websites</h1><br>
+            <div class="row justify-content-center">
+                <div class="title-line" style="width: 50%"></div>
+            </div>
+        </div>
+        <div class="w3-services-grids mt-lg-5 mt-4 col-lg-10 offset-lg-1 text-center">
+            <div class="text-justify">
+                <p class="text-center lead" style="font-size: 20pt; line-height: 1.6;">
+                    Usamos tecnologias web atuais para o desenvolvimento de websites dinâmicos, como <b>JavaScript</b> e <b>Jquery</b>, além de ferramentas
+                    de apoio à criação, como o <b>Bootstrap 4</b> e a folha de estilos <b>CSS3</b>.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="w3-services py-5 bg-light" id="sistemas">
+    <div class="container py-lg-3">
+        <div class="title-section">
+            <!-- <h3 class="main-title-w3 text-lg-center">Nossos Serviços</h3> -->
+            <h1 class="mb-4 mt-4 raleway-font display-4 font-weight-bold text-purple text-center">Desenvolvimentos de Sistemas e APPs</h1><br>
+            <div class="row justify-content-center">
+                <div class="title-line" style="width: 50%"></div>
+            </div>
+        </div>
+        <div class="w3-services-grids mt-lg-5 mt-4 col-lg-10 offset-lg-1 text-center">
+            <div class="text-justify">
+                <p class="text-center lead" style="font-size: 20pt; line-height: 1.6;">Os sistemas desenvolvidos por nossos cavaleiros cibernéticos utilizam o framework PHP <b>Laravel</b>, aliados a ferramentas
+                de interação como <b>VUE JS</b>, <b>JavaScript</b> e <b>Jquery</b>, além de ferramentas de apoio à criação, como o <b>Bootstrap 4</b> e a folha de estilos <b>CSS3</b>.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="w3-services py-5 bg-light" id="assessoria">
+    <div class="container py-lg-3">
+        <div class="title-section">
+            <!-- <h3 class="main-title-w3 text-lg-center">Nossos Serviços</h3> -->
+            <h1 class="mb-4 mt-4 raleway-font display-4 font-weight-bold text-purple text-center">Assessoria Digital</h1><br>
+            <div class="row justify-content-center">
+                <div class="title-line" style="width: 50%"></div>
+            </div>
+        </div>
+        <div class="w3-services-grids mt-lg-5 mt-4 col-lg-10 offset-lg-1 text-center">
+            <div class="text-justify">
+                <p class="text-center lead" style="font-size: 20pt; line-height: 1.6;">Os nossos serviços atendem publicos diversificados com estratégias específicas para cada negócio, usando sempre
+                as ferramentas mais atuais em nosso desenvolvimento.</p>
             </div>
         </div>
     </div>
