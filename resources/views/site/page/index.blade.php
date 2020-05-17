@@ -220,4 +220,39 @@ p#teste {
 </section> -->
 <!-- //freelance hire me -->
 
+<div class="modal fade" id="myModal">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content" style="background-color: transparent; border: none;">
+
+      <!-- Modal Header -->
+      {{-- <div class="modal-header">
+        
+      </div> --}}
+
+      <!-- Modal body -->
+      <div class="modal-body">
+        <button type="button" class="close text-white" data-dismiss="modal">&times;</button>
+       <img src="promos/bannerpromo.png" alt="" style="width:100%; max-width:100%;">
+      </div>
+
+      <!-- Modal footer -->
+      {{-- <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+      </div> --}}
+
+    </div>
+  </div>
+</div>
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+
+<script>
+  $(document).ready(function(){
+    $("#myModal").modal();
+});
+</script>
+
 @endsection
