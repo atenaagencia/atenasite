@@ -28,7 +28,7 @@ Route::get('/nossotime', function () {
 Route::get('/cases', function () {
     return view('site.page.cases');
 });
-Route::get('/promocoes', function () {
+Route::get('/atenago', function () {
     return view('site.page.promo');
 });
 
