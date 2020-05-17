@@ -36,9 +36,18 @@ p#teste {
           <a href="{{asset('servicos')}}" target="./blank" class="primary-btn-style btn-primary btn mt-lg-5 mt-4 py-4 font-weight-bold raleway-font">Conheça nossos serviços</a>
         </div>
     </div>
-    <div class="col-lg-4 d-lg-block d-none p-5">
-      <div class="conteudo" style="flex: 1; padding: 180px 0px">
-        <img src="{{asset('images/icon-diferente.png')}}" class="img-fluid pt-5" style="" alt="content-photo">
+    <style>
+      .fundo-conteudo{
+        background-image: url(images/icon-diferente.png);
+        background-repeat: no-repeat;
+        background-size: 500px;
+        background-position-x: -50px;
+        background-position-y: 60px;
+      }
+    </style>
+    <div class="col-lg-4 d-lg-block d-none p-5 fundo-conteudo">
+      <div class="conteudo mt-5" style="flex: 1; padding: 180px 0px;">
+        {{-- <img src="{{asset('images/icon-diferente.png')}}" class="pt-5"  alt="content-photo"> --}}
       </div>
     </div>
   </div>

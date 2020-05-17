@@ -39,7 +39,7 @@
 <div class="w3l-banner-slider">
   <div class="wrapper-container">
     <!-- Container for all sliders, and pagination -->
-    <main class="sliders-container">
+    <main class="sliders-container" >
       <!-- Here will be injected sliders for images, numbers, titles and links -->
 
       <!-- Simple pagination for the slider -->
@@ -49,10 +49,10 @@
         <li class="pagination__item"><a class="pagination__button"></a></li>
         <li class="pagination__item"><a class="pagination__button"></a></li>
       </ul>
-      <div class="social" data-contador="0">
+      {{-- <div class="social" data-contador="0">
          <span  class="fa fa-arrow-left left mr-2" style="font-size: 50px;"></span>
           <span  class="fa fa-arrow-right right" style="font-size: 50px;"></span>
-       </div>
+       </div> --}}
      </main>
    </div>
  </div>

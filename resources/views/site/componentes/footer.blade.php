@@ -11,7 +11,7 @@
          <ul class="social m-0 p-0">
           <li><a href="https://www.facebook.com/atenaagencia/"target="_blank"><span class="fa fa-facebook"></span></a></li>
           <li><a href="https://www.instagram.com/atenaagencia/"target="_blank"><span class="fa fa-instagram"></span></a></li>
-          <li><a href="https://api.whatsapp.com/send?phone=5574988416893" target="_blank"><span class="fa fa-whatsapp"></span></a></li>
+          <li><a href="https://api.whatsapp.com/send?phone=5574991140612" target="_blank"><span class="fa fa-whatsapp"></span></a></li>
         </ul>
       </div>
     </div>
@@ -128,7 +128,7 @@ cssClass: 'ms--images',
 // Generate the 4 slides required
 range: [0, 3],
 rangeContent: function () {
- return '<div class="ms-slide__image-container"><div class="ms-slide__image"></div></div>';
+ return '<div class="ms-slide__image-container" style="cursor: w-resize"><div class="ms-slide__image"></div></div>';
 },
 // Syncronize the other sliders
 sync: [msNumbers, msTitles, msLinks],
