@@ -21,7 +21,7 @@
 <section id="team" class="border-light border-top pt-5 pb-5 bg-white">
     <div class="container pb-5">
         <h1 class="mb-4 mt-4 raleway-font display-4 font-weight-bold text-purple text-center">Nosso Time</h1><hr width="30%">
-        <p class="lead text-center text-dark font-italic mb-5">Conheça o time que faz a atena agência mais forte.</p><br>
+        <p class="lead text-center text-dark font-italic mb-5">Conheça o time que faz a ATENA AGÊNCIA mais forte.</p><br>
         <div class="row">
             <!-- Team member -->
             <div class="col-xs-12 col-sm-6 col-md-4">
