@@ -138,7 +138,7 @@
                             <div class="card">
                                 <div class="card-body text-center mt-4">
                                     <h4 class="card-title">Jeferson</h4>
-                                    <p class="card-text">. Gestão comercial. Consultoria de Vendas e Relacionamento</p>
+                                    <p class="card-text">Gestão comercial, Consultoria de Vendas e Relacionamento</p>
                                     <ul class="list-inline">
                                         <li class="list-inline-item">
                                             <a class="social-icon text-xs-center" target="_blank" href="#">
@@ -188,7 +188,7 @@
                             <div class="card">
                                 <div class="card-body text-center mt-4">
                                     <h4 class="card-title">Philip</h4>
-                                    <p class="card-text">. Desenvolvedor, Diretoria de Desenvolvimento e Criação.</p>
+                                    <p class="card-text">Desenvolvedor, Diretoria de Desenvolvimento e Criação.</p>
                                     <ul class="list-inline">
                                         <li class="list-inline-item">
                                             <a class="social-icon text-xs-center" target="_blank" href="#">
