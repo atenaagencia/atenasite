@@ -225,7 +225,7 @@
                         <div class="frontside">
                             <div class="card">
                                 <div class="card-body text-center">
-                                    <p><img class=" img-fluid" src="https://dcnt5qvi2hv76.cloudfront.net/b12410825/resize_cache/19/23365dd92c1f65a6eb81283cfddb6812/main/65e/65ec29ad5b36b09922ab6e03d0cc7ec7/avatar.png" alt="card image"></p>
+                                    <p><img class=" img-fluid" src="equipe/priscila.jpg" alt="card image"></p>
                                     <h4 class="card-title">Priscila Alves</h4>
                                     <p class="card-text">Gestão de Pessoas</p>
                                     <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
