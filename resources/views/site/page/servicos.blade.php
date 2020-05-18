@@ -34,7 +34,7 @@ b{
         </div>
         <div class="w3-services-grids mt-lg-5 mt-4 col-lg-10 offset-lg-1 text-center">
             <div class="text-justify">
-                <p class="text-center lead" style="font-size: 20pt; line-height: 1.6;">Os nossos serviços atendem publicos diversificados com estratégias específicas para cada negócio, usando sempre
+                <p class="text-center lead" style="font-size: 20pt; line-height: 1.6;">Os nossos serviços atendem públicos diversificados com estratégias específicas para cada negócio, usando sempre
                 as ferramentas mais atuais em nosso desenvolvimento.</p>
             </div>
         </div>
@@ -153,7 +153,7 @@ b{
         <div class="w3-services-grids mt-lg-5 mt-4 col-lg-10 offset-lg-1 text-center">
             <div class="text-justify">
                 <p class="text-center lead" style="font-size: 20pt; line-height: 1.6;">Os sistemas desenvolvidos por nossos cavaleiros cibernéticos utilizam o framework PHP <b>Laravel</b>, aliados a ferramentas
-                de interação como <b>VUE JS</b>, <b>JavaScript</b> e <b>Jquery</b>, além de ferramentas de apoio à criação, como o <b>Bootstrap 4</b> e a folha de estilos <b>CSS3</b>.</p>
+                de interação como <b>REACT JS</b>, <b>VUE JS</b>, <b>JavaScript</b> e <b>Jquery</b>,além de ferramentas de apoio à criação. Utilizamos <b>REACT NATIVE</b> para desenvolver aplicativos para os sistemas Android e IOS de forma nativa. </p>
             </div>
         </div>
     </div>
