@@ -153,7 +153,7 @@ b{
         <div class="w3-services-grids mt-lg-5 mt-4 col-lg-10 offset-lg-1 text-center">
             <div class="text-justify">
                 <p class="text-center lead" style="font-size: 20pt; line-height: 1.6;">Os sistemas desenvolvidos por nossos cavaleiros cibernéticos utilizam o framework PHP <b>Laravel</b>, aliados a ferramentas
-                de interação como <b>REACT JS</b>, <b>VUE JS</b>, <b>JavaScript</b> e <b>Jquery</b>,além de ferramentas de apoio à criação. Utilizamos <b>REACT NATIVE</b> para desenvolver aplicativos para os sistemas Android e IOS de forma nativa. </p>
+                de interação como <b>REACT JS</b>, <b>VUE JS</b>, <b>JavaScript</b> e <b>Jquery</b>, além de ferramentas de apoio à criação. Utilizamos <b>REACT NATIVE</b> para desenvolver aplicativos para os sistemas Android e IOS de forma nativa. </p>
             </div>
         </div>
     </div>
@@ -191,7 +191,7 @@ b{
         </div>
         <div class="w3-services-grids mt-lg-5 mt-4 col-lg-10 offset-lg-1 text-center">
             <div class="text-justify">
-                <p class="text-center lead" style="font-size: 20pt; line-height: 1.6;">Análise, produção de conteúdo, monitoramento e relacionamento diário e ativo com o publico da marca.Ordenar as informações principais de contato, endereço, o sobre , melhorando cada rede social se for necessário, agendamento de postagens conforme a estratégia montada.</p>
+                <p class="text-center lead" style="font-size: 20pt; line-height: 1.6;">Análise, produção de conteúdo, monitoramento e relacionamento diário e ativo com o publico da marca. Ordenar as informações principais de contato, endereço, o sobre , melhorando cada rede social se for necessário, agendamento de postagens conforme a estratégia montada.</p>
             </div>
         </div>
     </div>
