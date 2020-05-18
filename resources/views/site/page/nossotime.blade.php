@@ -274,7 +274,7 @@
                         <div class="frontside">
                             <div class="card">
                                 <div class="card-body text-center">
-                                    <p><img class=" img-fluid" src="https://dcnt5qvi2hv76.cloudfront.net/b12410825/resize_cache/176/23365dd92c1f65a6eb81283cfddb6812/main/29a/29a99c56e3f73597ec3022d7d76aa980/20200128_214815.jpg?h=atenaagencia.bitrix24.com.br" alt="card image"></p>
+                                    <p><img class=" img-fluid" src="equipe/joara.png" alt="card image"></p>
                                     <h4 class="card-title">Joara Batista</h4>
                                     <p class="card-text">Consultora</p>
                                     <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
