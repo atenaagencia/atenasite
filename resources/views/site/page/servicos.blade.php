@@ -87,8 +87,7 @@ b{
                     </div>
                     <h4 class="mission">Gerenciamento de Redes Sociais</h4>
                     <div class="open-description">
-                        <p>Análise, produção de conteúdo, monitoramento e relacionamento diário e ativo com o publico da marca. Ordenar as informações principais de contato, endereço, o sobre , melhorando cada rede social se for necessário,
-                        agendamento de postagens conforme a estratégia montada.</p>
+                        <p>Análise, produção de conteúdo, monitoramento e relacionamento diário e ativo com o publico da marca. </p>
                         <a href="#redes_sociais" class="text-primary">Saiba mais</a>
                     </div>
                 </div>
@@ -192,7 +191,7 @@ b{
         </div>
         <div class="w3-services-grids mt-lg-5 mt-4 col-lg-10 offset-lg-1 text-center">
             <div class="text-justify">
-                <p class="text-center lead" style="font-size: 20pt; line-height: 1.6;">Análise, produção de conteúdo, monitoramento e relacionamento diário e ativo com o publico da marca.</p>
+                <p class="text-center lead" style="font-size: 20pt; line-height: 1.6;">Análise, produção de conteúdo, monitoramento e relacionamento diário e ativo com o publico da marca.Ordenar as informações principais de contato, endereço, o sobre , melhorando cada rede social se for necessário, agendamento de postagens conforme a estratégia montada.</p>
             </div>
         </div>
     </div>
