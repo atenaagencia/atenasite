@@ -71,12 +71,11 @@ b{
             <div class="col-lg-4 col-md-6 mt-lg-0 mt-5 pt-lg-0 pt-3">
                 <div class="card text-center">
                     <div class="icon-holder">
-                        <span class="fa fa-adjust service-icon bg-purple" aria-hidden="true"></span>
+                        <span class="fa fa-pencil service-icon bg-purple" aria-hidden="true"></span>
                     </div>
                     <h4 class="mission">Criação Gráfica</h4>
                     <div class="open-description">
-                        <p>Planejamento periódico de cada midia. Assessorar conteúdo das redes sociais,
-                           e acompanhar em tempo real as interações dos usuários.</p>
+                        <p>Trabalhamos com elementos gráficos como: criação de logotipos, cartões de visita, etc.</p>
                         <a href="#criacao" class="text-primary">Saiba mais</a>
                     </div>
                 </div>
@@ -84,12 +83,11 @@ b{
             <div class="col-lg-4 col-md-6 mt-5 pt-lg-0 pt-3">
                 <div class="card text-center">
                     <div class="icon-holder">
-                        <span class="fa fa-adjust service-icon bg-purple" aria-hidden="true"></span>
+                        <span class="fa fa-mobile-phone service-icon bg-purple" aria-hidden="true"></span>
                     </div>
                     <h4 class="mission">Gerenciamento de Redes Sociais</h4>
                     <div class="open-description">
-                        <p>Planejamento periódico de cada midia. Assessorar conteúdo das redes sociais,
-                           e acompanhar em tempo real as interações dos usuários.</p>
+                        <p>Análise, produção de conteúdo, monitoramento e relacionamento diário e ativo com o publico da marca.</p>
                         <a href="#redes_sociais" class="text-primary">Saiba mais</a>
                     </div>
                 </div>
@@ -97,12 +95,11 @@ b{
             <div class="col-lg-4 col-md-6 mt-5 pt-lg-0 pt-3">
                 <div class="card text-center">
                     <div class="icon-holder">
-                        <span class="fa fa-adjust service-icon bg-purple" aria-hidden="true"></span>
+                        <span class="fa fa-bullhorn service-icon bg-purple" aria-hidden="true"></span>
                     </div>
                     <h4 class="mission">Marketing Digital</h4>
                     <div class="open-description">
-                        <p>Planejamento periódico de cada midia. Assessorar conteúdo das redes sociais,
-                           e acompanhar em tempo real as interações dos usuários.</p><br>
+                        <p>Promover estratégias, anteriormente estudadas para ser aplicadas online pelas empresas.</p><br>
                         <a href="#marketing_digital" class="text-primary">Saiba mais</a>
                     </div>
                 </div>
@@ -110,12 +107,12 @@ b{
             <div class="col-lg-4 col-md-6 mt-5 pt-lg-0 pt-3">
                 <div class="card text-center">
                     <div class="icon-holder">
-                        <span class="fa fa-adjust service-icon bg-purple" aria-hidden="true"></span>
+                        <span class="fa fa-microphone service-icon bg-purple" aria-hidden="true"></span>
                     </div>
                     <h4 class="mission">Assessoria Digital</h4>
                     <div class="open-description">
-                        <p>Planejamento periódico de cada midia. Assessorar conteúdo das redes sociais,
-                           e acompanhar em tempo real as interações dos usuários.</p><br>
+                        <p>Cuidar da imagem do seu empreendimento realizando um acompanhamento e uma contenção de eventuais danos em tempo real de
+                        todas as interações dos usuários.</p><br>
                         <a href="#assessoria" class="text-primary">Saiba mais</a>
                     </div>
                 </div>
@@ -231,8 +228,10 @@ b{
         </div>
         <div class="w3-services-grids mt-lg-5 mt-4 col-lg-10 offset-lg-1 text-center">
             <div class="text-justify">
-                <p class="text-center lead" style="font-size: 20pt; line-height: 1.6;">Os nossos serviços atendem publicos diversificados com estratégias específicas para cada negócio, usando sempre
-                as ferramentas mais atuais em nosso desenvolvimento.</p>
+                <p class="text-center lead" style="font-size: 20pt; line-height: 1.6;">Cuidar da imagem do seu empreendimento realizando um acompanhamento e uma
+                contenção de eventuais danos em tempo real de todas as interações dos usuários nas Mídias Sociais e Digitais.
+                Gerenciamento completo, edição de conteúdo (oferecido pelo cliente), engajamento com o público, relatórios detalhados e
+                produção dos post conforme os planejamentos.</p>
             </div>
         </div>
     </div>

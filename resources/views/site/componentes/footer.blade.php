@@ -22,7 +22,7 @@
 <!-- //Footer -->
 
 <!-- move top -->
-<button onclick="topFunction()" id="movetop" class="bg-secondary" title="Go to top">
+<button onclick="topFunction()" id="movetop" class="bg-secondary" title="Go to top" style="bottom: 100px;">
 <span class="fa fa-angle-up"></span>
 </button>
 <script>

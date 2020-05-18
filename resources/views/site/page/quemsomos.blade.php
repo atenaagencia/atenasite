@@ -44,10 +44,10 @@
                 <p class="mt-md-4 mt-3 mb-0 p-lg-3 text-dark text-justify"> Tudo começou em <b>30 maio de 2017</b>, quando dois estudantes de computação e um estudante 
                 de publicidade resolveram reunir suas habilidades para entrar no mercado de trabalho. <br><br>Sabendo dos desafios da vida
                 de um empreendedor e com a vontade de crescer no mercado de trabalho embarcaram nessa caminhada, trazendo habilidades
-                em Design Gráfico, Web Design, Publicidade e Marketing Digital. <br><br> Carregando uma nova ideia de se trabalhar em equipe, 
+                em Design Gráfico, Web Design,Desenvolvimento Web, Publicidade e Marketing Digital. <br><br> Carregando uma nova ideia de se trabalhar em equipe, 
                 capacitando-se todos os dias para desenvolver o melhor e satifazer com excelência a todos que embarcarem nessa jornada 
                 conosco. Afinal construir em equipe é dificil, mas nos traz a certeza que em uma luta, não estaremos sós.</p>
-                <p class="p-lg-3 lead text-dark">Prazer, cavalheiros cibernéticos. <br><br>  <a href="{{asset('nossotime')}}" class="font-weight-bold bg-purple btn btn-light" style="text-transform: none !important">Nós somos a ATENA AGÊNCIA.</a></p>
+                <p class="p-lg-3 lead text-dark">Prazer, cavalheiros cibernéticos. <br><br>  <a href="{{asset('nossotime')}}" class="font-weight-bold bg-purple btn btn-block btn-light" style="text-transform: none !important;">Nós somos a ATENA AGÊNCIA.</a></p>
             </div>
         </div>
     </div>

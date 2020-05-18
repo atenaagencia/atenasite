@@ -13355,8 +13355,8 @@ section.w3l-grid-quote h3 {
 #movetop {
   display: none;
   position: fixed;
-  bottom: 15px;
-  right: 15px;
+  bottom: 50px;
+  right: 31px;
   z-index: 99;
   font-size: 25px;
   cursor: pointer;

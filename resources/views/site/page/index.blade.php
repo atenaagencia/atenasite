@@ -32,7 +32,7 @@ p#teste {
           desenvolvimento web, palestras e treinamentos, marketing e
           mídias digitais, assessoria de imprensa, design gráfico,
           campanhas publicitárias, materiais gráfico e planejamento
-          estratégico.</p>
+          estratégico. Entre outros.</p>
           <a href="{{asset('servicos')}}" target="./blank" class="primary-btn-style btn-primary btn mt-lg-5 mt-4 py-4 font-weight-bold raleway-font">Conheça nossos serviços</a>
         </div>
     </div>
@@ -59,22 +59,22 @@ p#teste {
     <div class="row stats-con text-white">
       <div class="col-sm-3 col-6 stats_info counter_grid">
         <span class="fa fa-coffee"></span>
-        <p class="counter">645</p>
+        <p class="counter">6800</p>
         <h4>Café Tomados</h4>
       </div>
       <div class="col-sm-3 col-6 stats_info counter_grid1">
         <span class="fa fa-smile-o"></span>
-        <p class="counter">563</p>
+        <p class="counter">30</p>
         <h4>Clientes Felizes</h4>
       </div>
       <div class="col-sm-3 col-6 stats_info counter_grid mt-sm-0 mt-5">
         <span class="fa fa-list"></span>
-        <p class="counter">1145</p>
+        <p class="counter">40</p>
         <h4>Projetos</h4>
       </div>
       <div class="col-sm-3 col-6 stats_info counter_grid2 mt-sm-0 mt-5">
         <span class="fa fa-laptop"></span>
-        <p class="counter">1045</p>
+        <p class="counter">2720</p>
         <h4>Horas de Codigo</h4>
       </div>
     </div>
@@ -243,11 +243,6 @@ p#teste {
     </div>
   </div>
 </div>
-
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
 
 <script>
   $(document).ready(function(){
