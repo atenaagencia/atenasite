@@ -4,6 +4,12 @@
      <div class="container">
       <div class="footer-content">
        <div class="row">
+         <div class="col-lg-12 text-center">
+          <h3 class="text-white">Contato</h3>           
+          <p class="text-white">
+          (74) 99114 -0612 | contato@atenaagencia.com</p>    
+          <hr>    
+        </div>
         <div class="col-lg-8 footer-left">
          <p class="m-0">© Copyright 2020 Atena Agência.</p>
        </div>
