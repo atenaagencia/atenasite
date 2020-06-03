@@ -1,5 +1,0 @@
-RewriteEngine on
-RewriteCond %{HTTP_HOST} ^atenaagencia.com/site$ [NC,OR]
-RewriteCond %{HTTP_HOST} ^wwww.atenaagencia.com/site$
-RewriteCond %{REQUEST_URI} !public/
-RewriteRule (.*) /site/public/$1 [L]
