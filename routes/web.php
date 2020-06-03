@@ -32,3 +32,6 @@ Route::get('/atenago', function () {
     return view('site.page.promo');
 });
 
+Route::get('/apps', function () {
+    return view('site.page.apps');
+});

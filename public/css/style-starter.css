@@ -13713,7 +13713,7 @@ span.sicon {
 }
 
 .elite-services1 {
-  background: #1f242c;
+  background: #e0e6ee;
   border-radius: 8px;
 }
 
@@ -13762,9 +13762,9 @@ span.sicon {
   transition: all 0.3s ease;
 }
 
-.bott-img:hover {
+/* .bott-img:hover {
   padding: 0 20px;
-}
+} */
 
 .bott-img .icon-holder {
   position: relative;
@@ -13776,6 +13776,7 @@ span.sicon {
   border-radius: 100%;
   color: #fff;
   font-size: 26px;
+  background-color: purple;
   /*--w3layouts--*/
   /*--agileits--*/
 }
@@ -13788,7 +13789,7 @@ span.sicon {
   font-size: 22px;
   line-height: 28px;
   font-weight: 600;
-  color: #fff;
+  color: rgb(32, 31, 31);
 }
 
 .bott-img .description {
@@ -13807,25 +13808,25 @@ span.sicon {
   width: 40px;
 }
 
-.bott-img:hover .icon-holder {
+/* .bott-img:hover .icon-holder {
   top: -40px;
   background: #29a19c;
-}
+} */
 
-.bott-img:hover .mission {
+/* .bott-img:hover .mission {
   top: -80px;
-}
+} */
 
-.bott-img:hover .description {
+/* .bott-img:hover .description {
   opacity: 1;
   transform: scale(1);
   font-size: 14px;
   line-height: 2.2em;
-}
+} */
 
-.bott-img:hover .description a {
+/* .bott-img:hover .description a {
   top: -60px;
-}
+} */
 
 .description a {
   font-size: 17px;
