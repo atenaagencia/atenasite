@@ -12,15 +12,15 @@
             <div class="row abt-btm pt-4">
                 <div class="col-lg-3 col-sm-6 bottom-gds">
                     <a href="http://webmail.atenaagencia.com" target="_blank">
-                    <div class="elite-services1">
-                        <div class="bott-img">
-                            <div class="icon-holder">
-                                <span class="fa fa-envelope service-icon" aria-hidden="true"></span>
+                        <div class="elite-services1">
+                            <div class="bott-img">
+                                <div class="icon-holder">
+                                    <span class="fa fa-envelope service-icon" aria-hidden="true"></span>
+                                </div>
+                                <h4 class="mission">Webmail</h4>
                             </div>
-                            <h4 class="mission">Webmail</h4>
                         </div>
-                    </div>
-                    <a>
+                        <a>
                 </div>
                 <div class="col-lg-3 col-sm-6 bottom-gds">
                     <a href="https://www.bitrix24.net/" target="_blank">
@@ -47,7 +47,7 @@
                         </div>
                         <a>
                 </div>
-             
+
             </div>
         </div>
     </div>
