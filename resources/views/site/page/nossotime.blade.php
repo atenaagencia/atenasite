@@ -382,7 +382,7 @@
                             <div class="card">
                                 <div class="card-body text-center">
                                     <p><img class=" img-fluid"
-                                            src="equipe/danilo.jpg"
+                                            src="equipe/jamerson.jpg"
                                             alt="card image"></p>
                                     <h4 class="card-title">Jamerson Wesley</h4>
                                     <p class="card-text">Programador</p>
