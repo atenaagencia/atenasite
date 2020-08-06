@@ -382,7 +382,7 @@
                             <div class="card">
                                 <div class="card-body text-center">
                                     <p><img class=" img-fluid"
-                                            src="https://dcnt5qvi2hv76.cloudfront.net/b12410825/resize_cache/42/23365dd92c1f65a6eb81283cfddb6812/main/40a/40a2694129a041413655aceb315db8f4/WhatsApp+Image+2020-02-01+at+18.55.41.jpeg?h=atenaagencia.bitrix24.com.br"
+                                            src="equipe/danilo.jpg"
                                             alt="card image"></p>
                                     <h4 class="card-title">Jamerson Wesley</h4>
                                     <p class="card-text">Programador</p>
