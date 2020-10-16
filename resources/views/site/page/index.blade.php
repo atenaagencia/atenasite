@@ -230,10 +230,10 @@ p#teste {
       </div> --}}
 
       <!-- Modal body -->
-      <div class="modal-body">
+      {{-- <div class="modal-body">
         <button type="button" class="close text-white" data-dismiss="modal">&times;</button>
        <a href="atenago"><img src="promos/bannerpromo.png" alt="" style="width:100%; max-width:100%;"></a>
-      </div>
+      </div> --}}
 
       <!-- Modal footer -->
       {{-- <div class="modal-footer">
@@ -243,11 +243,11 @@ p#teste {
     </div>
   </div>
 </div>
-
+{{-- 
 <script>
   $(document).ready(function(){
     $("#myModal").modal();
 });
-</script>
+</script> --}}
 
 @endsection
