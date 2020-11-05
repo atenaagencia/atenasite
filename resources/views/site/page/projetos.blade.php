@@ -24,7 +24,7 @@
                 </div>
                 <div class="col-lg-3 col-sm-6 bottom-gds">
                     <a href="https://drive.google.com/drive/folders/1iY-1NMERMnSGWl3WIyiyfSOtzIr5WOAb?usp=sharing" target="_blank">
-                        <div class="elite-services1">
+                        <div class="/">
                             <div class="bott-img">
                                 <div class="icon-holder">
                                     <span class="fa fa-folder service-icon" aria-hidden="true"></span>
