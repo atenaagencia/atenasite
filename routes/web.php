@@ -13,9 +13,9 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-// Route::get('/run', function () {
-//     return view('site.page.teste');
-// });
+Route::get('/run', function () {
+    return view('site.page.run');
+});
 
 Route::get('/', function () {
     return view('site.page.index');
