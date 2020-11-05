@@ -39,3 +39,6 @@ Route::get('/atenago', function () {
 Route::get('/apps', function () {
     return view('site.page.apps');
 });
+Route::get('/projetos', function () {
+    return view('site.page.projetos');
+});
