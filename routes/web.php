@@ -13,7 +13,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/run', function () {
+Route::get('/atenarun', function () {
     return view('site.page.run');
 });
 

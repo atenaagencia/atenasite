@@ -70,24 +70,24 @@
                                 <tbody>
                                     <tr>
                                         <th scope="row" class="font-weight-bold h4">1</th>
-                                        <td><a href="#" class="ratio img-responsive img-circle" style="background: url('https://images.pexels.com/photos/450035/pexels-photo-450035.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260');"></a></td>
+                                        <td><a href="#" class="ratio img-responsive img-circle" style="background: url('run/01.jpg'); background-size: 100%;"></a></td>
                                         <td class="font-weight-bold h4">Jamerson</td>
                                         <td class="font-weight-bold h4">Atena Store</td>
-                                        <td class="font-weight-bold text-purple h4">0</td>
+                                        <td class="font-weight-bold text-purple h4">50</td>
                                     </tr>
                                     <tr>
                                         <th scope="row" class="font-weight-bold h4">2</th>
-                                        <td><a href="#" class="ratio img-responsive img-circle" style="background: url('https://images.pexels.com/photos/450035/pexels-photo-450035.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260');"></a></td>
+                                        <td><a href="#" class="ratio img-responsive img-circle" style="background: url('https://images.pexels.com/photos/450035/pexels-photo-450035.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260'); background-size: 100%;"></a></td>
                                         <td class="font-weight-bold h4">Max</td>
                                         <td class="font-weight-bold h4">Atena Store</td>
-                                        <td class="font-weight-bold text-purple h4">0</td>
+                                        <td class="font-weight-bold text-purple h4">50</td>
                                     </tr>
                                     <tr>
                                         <th scope="row" class="font-weight-bold h4">3</th>
-                                        <td><a href="#" class="ratio img-responsive img-circle" style="background: url('https://images.pexels.com/photos/450035/pexels-photo-450035.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260');"></a></td>
+                                        <td><a href="#" class="ratio img-responsive img-circle" style="background: url('run/02.jpg'); background-size: 100%;"></a></td>
                                         <td class="font-weight-bold h4">Moisés</td>
                                         <td class="font-weight-bold h4">Atena Store</td>
-                                        <td class="font-weight-bold text-purple h4">0</td>
+                                        <td class="font-weight-bold text-purple h4">50</td>
                                     </tr>
                                 </tbody>
                             </table>
